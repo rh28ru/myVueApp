@@ -1,13 +1,13 @@
 <template>
   <div>
-    <h1> {{msg}} </h1>
+    <h1> {{msg1}} </h1>
   </div>
 </template>
 <script>
 export default {
   data () {
     return {
-      msg: 'This is my First Vuetify APP'
+      msg1: 'This is my First Vuetify APP-1'
     }
   }
 }
